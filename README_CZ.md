@@ -1,3 +1,5 @@
+![Prusa Cup Heater](https://github.com/LaskaKit/LaskaKit_Prusa_CupHeater/blob/main/img/prusacupheater.png)
+
 Projekt Průša Cup Heater – jednoduchý ohřívač pro školy i nadšence
 -------------------------------------------------------------------
 
